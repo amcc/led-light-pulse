@@ -13,8 +13,8 @@ LED_INVERT = False
 LED_CHANNEL = 0
 
 # Pulse animation
-PULSE_WIDTH = 15
-FRAME_DELAY = 0.055
+PULSE_WIDTH = 8
+FRAME_DELAY = 0.06
 PULSE_COLOUR = (255, 187, 51)
 
 # Each pulse moves this many LEDs per second.
