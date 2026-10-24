@@ -41,7 +41,7 @@ MIC_CHUNK = 320
 
 # Increase this if background noise triggers pulses.
 # Decrease it if claps are not detected.
-MIC_PEAK_THRESHOLD = 4000
+MIC_PEAK_THRESHOLD = 2000
 
 # Minimum time between microphone triggers.
 MIC_COOLDOWN = 0.25
